@@ -1,0 +1,28 @@
+name: RueBémol
+favicon: null
+layout_spectrum: 0.026932606706395745
+typography_spectrum: 0.12800906947813928
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.06081723514944315
+  lightness: 0.1487547003198415
+  saturation: 0.9918741136789322
+  rhythmicContrast: 0.428359153913334
+purpose: []
