@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Cinéma rotatif in situ
-datePublished: '2016-01-25T13:25:29.764Z'
-dateModified: '2016-01-25T13:25:24.898Z'
+datePublished: '2016-01-25T13:27:31.360Z'
+dateModified: '2016-01-25T13:27:27.060Z'
 title: Panorama Kino-Théâtre
 author: []
 sourcePath: _posts/2016-01-25-tom-greder.md
@@ -35,7 +35,7 @@ En tant que metteur en scène et enseignant dans les deux domaines théâtral et
 
 Voilà donc 28 ans que Tom Greder sillonne le monde ... passant la moitié de son temps en Europe et en Australie. Et l'autre moitié entre les deux.
 
-## Le Projet PAN
+PANORAMA renouvèle l'expérience théâtrale au fur et à mesure que la structure tourne sur elle-même et transforme la réalité en fantaisie. Il éveille, ou réveille à nouveau, les sens et l'appréciation que l'on peut se faire du monde.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28a0b0a2-fd7c-4d01-bc94-2168a1cc7839.png)
 
 ## PANORAMA renouvèle l'expérience théâtrale au fur et à mesure que la structure tourne sur elle-même et transforme la réalité en fantaisie. Il éveille, ou réveille à nouveau, les sens et l'appréciation que l'on peut se faire du monde.
