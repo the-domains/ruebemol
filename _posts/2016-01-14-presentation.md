@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T11:35:34.649Z'
-dateModified: '2016-01-14T11:35:30.286Z'
+datePublished: '2016-01-25T10:38:38.716Z'
+dateModified: '2016-01-25T10:38:35.679Z'
 title: Présentation
 author: []
 sourcePath: _posts/2016-01-14-presentation.md
