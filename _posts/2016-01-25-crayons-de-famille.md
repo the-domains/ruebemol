@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Théâtre d'objets pour jeune public"
-datePublished: '2016-01-25T10:26:37.525Z'
-dateModified: '2016-01-25T10:26:10.280Z'
+datePublished: '2016-01-25T10:34:05.200Z'
+dateModified: '2016-01-25T10:34:01.010Z'
 title: Crayons de famille
 author: []
+sourcePath: _posts/2016-01-25-crayons-de-famille.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-25-crayons-de-famille.md
-published: true
 url: crayons-de-famille/index.html
-_type: Article
+_type: WebPage
 
 ---
 ## Allez, allez ! (ex-Théâtre musical possible)
