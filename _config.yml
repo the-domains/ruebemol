@@ -1,6 +1,6 @@
 name: RueBémol
 favicon: null
-layout_spectrum: 0.75676
+layout_spectrum: 0.24325
 typography_spectrum: 0.64152
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#feb665'
     - '#fed3a2'
   brandStrength: 0.125
-  lightness: 0.6875
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
