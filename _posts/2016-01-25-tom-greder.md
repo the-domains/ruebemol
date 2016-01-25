@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Cinéma rotatif in situ
-datePublished: '2016-01-25T10:57:14.675Z'
-dateModified: '2016-01-25T10:56:48.729Z'
+datePublished: '2016-01-25T10:58:28.772Z'
+dateModified: '2016-01-25T10:58:24.844Z'
 title: Tom Greder
 author: []
+sourcePath: _posts/2016-01-25-tom-greder.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-25-tom-greder.md
-published: true
 url: tom-greder/index.html
 _type: WebPage
 
