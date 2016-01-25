@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T12:59:33.555Z'
-dateModified: '2016-01-25T12:59:29.590Z'
+datePublished: '2016-01-25T13:28:25.838Z'
+dateModified: '2016-01-25T13:28:22.675Z'
 title: Présentation
 author: []
 sourcePath: _posts/2016-01-14-presentation.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: presentation/index.html
-_type: Article
+_type: WebPage
 
 ---
 Qui sommes-nous ?
