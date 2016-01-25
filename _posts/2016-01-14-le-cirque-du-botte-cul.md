@@ -6,31 +6,33 @@ inLanguage: null
 starred: false
 keywords: []
 description: Entresort déambulatoire de cirque miniature
-datePublished: '2016-01-14T10:43:55.731Z'
-dateModified: '2016-01-14T10:43:33.017Z'
-title: Le Cirque du Botte-Cul
+datePublished: '2016-01-25T10:38:58.915Z'
+dateModified: '2016-01-25T10:33:17.880Z'
+title: "Le Cirque du Botte-Cul\_"
 author: []
+sourcePath: _posts/2016-01-14-le-cirque-du-botte-cul.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-le-cirque-du-botte-cul.md
-published: true
 url: le-cirque-du-botte-cul/index.html
 _type: WebPage
 
 ---
-Le Cirque du Botte-Cul 
+# Le Cirque du Botte-Cul 
 
 ### **L'artiste**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a15914ef-13cd-4a6e-ad29-ace3a304b860.jpg)
 
 Laura Gambarini est née à Zürich, Suisse en 1982\.
 
 Son entraîneur de volleyball lui a toujours dit qu'elle avait un bel esprit d'équipe, mais que c'était insuffisant et qu'elle devait tenter sa chance au théâtre. Après un master en Littérature à l'Université de Lausanne, Laura Gambarini décide en 2009 de se rendre à Berlin afin de suivre une formation de mime et pantomime chez Jörg Brennecke. Elle la termine en 2013\. 
 
 ### Le spectacle
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca75b22a-34eb-41f0-a5ed-a1902beaa32e.jpg)
 
 Par volonté d'aller vers les arts de la rue, Laura crée en 2015 un entresort sous parapluie, qu'elle peut tourner facilement et déplacer dans une valise : le Cirque du Botte-Cul, du nom du tabouret à un pied, utilisé par les paysans suisses pour traire les vaches.  
 Le CIRQUE du BOTTE-CUL, c'est madame Loyal, un chapiteau sous un parapluie et des artistes en bouchon, en papier toilette et en chips.  
@@ -46,4 +48,3 @@ Espace : en extérieur
 
 La déambulation peut se faire de manière autonome jusqu'au crépuscule.  
 Si elle a lieu pendant la nuit, l'organisateur met un éclairage à disposition.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca75b22a-34eb-41f0-a5ed-a1902beaa32e.jpg)
