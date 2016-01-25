@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Cinéma rotatif in situ
-datePublished: '2016-01-25T13:27:31.675Z'
+datePublished: '2016-01-25T13:27:31.691Z'
 dateModified: '2016-01-25T13:27:27.060Z'
 title: Panorama Kino-Théâtre
 author: []
