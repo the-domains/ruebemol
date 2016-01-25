@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Duo de clowns mal assortis '
-datePublished: '2016-01-25T09:51:46.562Z'
-dateModified: '2016-01-25T09:51:43.438Z'
+datePublished: '2016-01-25T10:34:17.716Z'
+dateModified: '2016-01-25T10:33:43.908Z'
 title: 'Oskar & Strudel Show'
 author: []
 sourcePath: _posts/2016-01-14-oskar-and-strudel-show.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: oskar-and-strudel-show/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Oskar & Strudel Show
