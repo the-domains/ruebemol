@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T13:28:25.901Z'
+datePublished: '2016-01-25T13:28:25.937Z'
 dateModified: '2016-01-25T13:28:22.675Z'
 title: Présentation
 author: []
