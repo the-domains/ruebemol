@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-02T08:46:08.818Z'
-dateModified: '2016-02-02T08:45:41.800Z'
+description: Contes coquins en Français et Langue des Signes
+datePublished: '2016-02-02T08:50:45.037Z'
+dateModified: '2016-02-02T08:50:41.697Z'
 title: Compagnie Doubles Sens
 author: []
+sourcePath: _posts/2016-02-02-compagnie-doubles-sens.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-02-compagnie-doubles-sens.md
-published: true
 url: compagnie-doubles-sens/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f494be23-7439-4d20-bfd0-8ea5ff475c95.jpg)
