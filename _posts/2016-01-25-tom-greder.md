@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Cinéma rotatif in situ
-datePublished: '2016-02-02T08:19:09.631Z'
+datePublished: '2016-02-02T08:19:09.756Z'
 dateModified: '2016-02-02T08:19:04.306Z'
 title: "Collectif PAN\_"
 author: []
