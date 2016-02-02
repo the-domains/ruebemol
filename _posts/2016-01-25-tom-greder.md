@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Cinéma rotatif in situ
-datePublished: '2016-01-25T13:27:31.691Z'
-dateModified: '2016-01-25T13:27:27.060Z'
-title: Panorama Kino-Théâtre
+datePublished: '2016-02-02T08:19:09.631Z'
+dateModified: '2016-02-02T08:19:04.306Z'
+title: "Collectif PAN\_"
 author: []
 sourcePath: _posts/2016-01-25-tom-greder.md
 published: true
@@ -22,8 +22,7 @@ url: tom-greder/index.html
 _type: WebPage
 
 ---
-# Panorama Kino-Théâtre
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e7a1fb6-96b9-4834-98aa-92b83a06f563.png)
+# Collectif PAN ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e7a1fb6-96b9-4834-98aa-92b83a06f563.png)
 
 ## L'auteur
 
@@ -36,7 +35,8 @@ En tant que metteur en scène et enseignant dans les deux domaines théâtral et
 Voilà donc 28 ans que Tom Greder sillonne le monde ... passant la moitié de son temps en Europe et en Australie. Et l'autre moitié entre les deux.
 
 PANORAMA renouvèle l'expérience théâtrale au fur et à mesure que la structure tourne sur elle-même et transforme la réalité en fantaisie. Il éveille, ou réveille à nouveau, les sens et l'appréciation que l'on peut se faire du monde.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28a0b0a2-fd7c-4d01-bc94-2168a1cc7839.png)
+
+# PANORAMA Kino-Théâtre
 
 ## PANORAMA renouvèle l'expérience théâtrale au fur et à mesure que la structure tourne sur elle-même et transforme la réalité en fantaisie. Il éveille, ou réveille à nouveau, les sens et l'appréciation que l'on peut se faire du monde.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94a14441-e0ea-40f4-b90a-d222b50c2141.png)
