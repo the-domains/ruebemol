@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RueBémol - agence des arts de la rue]]></title>
+        <description><![CDATA[RueBémol - agence des arts de la rue]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 08:48:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[L'érotisme à fleur de paume ]]></title>
+            <description><![CDATA[<article><h1>L'érotisme à fleur de paume </h1><p>Doubles Sens voit le jour en 2015 sous l'impulsion d'Elima Héritier et de Laurent Baier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1ebbb1623ca06e8e8c3d31baa3fe6aff4dfdf58.jpg"></article>]]></description>
+            <link>undefinedcompagnie-doubles-sens/index.html</link>
+            <guid isPermaLink="false">865d1b45-1028-45e6-ac7f-238ed831214e</guid>
+            <pubDate>Tue, 02 Feb 2016 08:46:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
